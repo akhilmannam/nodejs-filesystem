@@ -1,0 +1,17 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-self: center;
+}
+
+h3{
+    font-size: 13px !important;
+    padding: 5px !important;
+    margin: 0 !important;
+}
+
+.folder{
+    background-color: lightgray;
+}
+
